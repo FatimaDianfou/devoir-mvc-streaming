@@ -5,7 +5,7 @@ Devoir Developpement Mobile - Formation Dclic - Atelier "Application du modele M
 Ce repo contient les deux versions demandees dans l'activite :
 
 - [`version_classique/`](version_classique) : version "classique" de l'application (tout dans `main.dart`)
-- `version_mvc/` : version respectant l'architecture MVC (Modele - Vue - Controleur) - 
+- [`version_mvc/`](version_mvc) : version respectant l'architecture MVC (Modele - Vue - Controleur)
 
 ## Version classique
 
